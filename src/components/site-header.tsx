@@ -31,7 +31,7 @@ export function SiteHeader() {
         >
           <span className="brand-mark">
             <Image
-              src="/6logo.PNG"
+              src="/6logo.png"
               alt=""
               width={44}
               height={44}

@@ -73,7 +73,7 @@ export const metadata: Metadata = {
       "Apply for official recognition and membership access within the 6clement Joshua network.",
     images: [
       {
-        url: "/6logo.PNG",
+        url: "/6logo.png",
         alt: "6membership official logo",
       },
     ],
@@ -84,7 +84,7 @@ export const metadata: Metadata = {
     title: "6membership",
     description:
       "Apply for official recognition and membership access within the 6clement Joshua network.",
-    images: ["/6logo.PNG"],
+    images: ["/6logo.png"],
   },
 
   robots: {

@@ -2697,7 +2697,7 @@ export async function generateMetadata({
       type: "website",
       images: [
         {
-          url: "/6logo.PNG",
+          url: "/6logo.png",
           width: 1200,
           height: 630,
           alt: `${membership.name} by 6clement Joshua`,

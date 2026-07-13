@@ -2782,7 +2782,7 @@ export default async function MembershipBenefitsPage({
 
                 <div className="premium-card-logo">
                   <Image
-                    src="/6logo.PNG"
+                    src="/6logo.png"
                     alt="6clement Joshua logo"
                     width={190}
                     height={190}
